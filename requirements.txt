@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+pillow
+tensorflow>=2.15
+easyocr
+opencv-python
+xgboost
+matplotlib
+seaborn
